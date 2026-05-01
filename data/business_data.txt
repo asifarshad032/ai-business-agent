@@ -1,0 +1,18 @@
+
+We are a Dubai-based electronics store.
+
+Products:
+- iPhone 15 Pro: AED 4500
+- Samsung S24: AED 4200
+- MacBook Air M2: AED 5200
+
+Services:
+- Free delivery in UAE
+- 1-year warranty
+- Cash on delivery available
+
+Business Hours:
+- 10 AM to 10 PM
+
+Location:
+- Dubai Marina
