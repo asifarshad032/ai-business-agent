@@ -38,3 +38,13 @@ This project simulates real-world enterprise AI assistant behavior for customer 
 ---
 
 ## 📁 Project Structure
+
+app/
+├── main.py
+├── ai_agent.py
+├── rag.py
+├── memory.py
+├── vector_store.py
+
+data/
+└── business_data.txt
